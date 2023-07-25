@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Deep Learning ,neural network**
 
-- 👯 I’m looking to collaborate on **Future Projetcs**
+- 👯 I’m looking to collaborate on **Future Projects**
 
-- 💬 Ask me about **React, JavaScript, android**
+- 💬 Ask me about **React, JavaScript, Android**
 
 - 📫 How to reach me **Munyangabo4@gmail.com**
 
